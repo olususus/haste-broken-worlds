@@ -1,0 +1,11 @@
+haste_terminal/
+│
+├── main.py              # Start gry, pętla główna i zarządzanie poziomami
+├── level.py             # Logika poziomów (run, shop, challenge, event)
+├── player.py            # Gracz – pozycja, fizyka, interakcje
+├── world.py             # Przesuwający się świat, generowanie ramp/przeszkód
+├── render.py            # Rysowanie w terminalu (curses)
+├── data.py              # Konfiguracje poziomów i itemsy (jako słowniki)
+
+
+struktura oczywiscie ze z chatu
